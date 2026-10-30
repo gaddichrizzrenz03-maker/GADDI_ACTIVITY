@@ -1,0 +1,6 @@
+B001|Noli Me Tangere|Jose Rizal|false
+B002|El Filibusterismo|Jose Rizal|true
+B003|Java: A Beginner's Guide|Herbert Schildt|false
+B004|The Little Prince|Antoine de Saint-Exupery|false
+B005|Introduction to Algorithms|Thomas H. Cormen|true
+B006|Chess Openings|Bobby Ficher|false
